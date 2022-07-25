@@ -1,0 +1,12 @@
+h1{
+    color: aquamarine;
+    margin: 10px;
+    font-variant: small-caps;
+    font: 10px;
+    font-style: normal;
+}
+p{
+    color: red;
+    font-display: calc(red); 
+
+}
